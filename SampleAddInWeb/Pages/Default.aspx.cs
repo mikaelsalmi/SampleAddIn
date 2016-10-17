@@ -19,6 +19,7 @@ namespace SampleAddInWeb
         string accessToken;
         Uri sharepointUrl;
         string siteName;
+        string sitename2;
         string currentUser;
         List<string> listOfUsers = new List<string>();
         List<string> listOfLists = new List<string>();
