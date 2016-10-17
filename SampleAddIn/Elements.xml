@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="scripts\typings\powerbi.d.ts" Url="scripts/typings/powerbi.d.ts" ReplaceContent="TRUE" />
+    <File Path="scripts\powerbi.min.js" Url="scripts/powerbi.min.js" ReplaceContent="TRUE" />
+    <File Path="scripts\powerbi.js.map" Url="scripts/powerbi.js.map" ReplaceContent="TRUE" />
+    <File Path="scripts\powerbi.js" Url="scripts/powerbi.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Type="ElementManifest" />
+    <ProjectItemFile Source="scripts\typings\powerbi.d.ts" Target="scripts\typings\" Type="ElementFile" />
+    <ProjectItemFile Source="scripts\powerbi.min.js" Target="scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="scripts\powerbi.js.map" Target="scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="scripts\powerbi.js" Target="scripts\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
